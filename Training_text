@@ -1,1 +1,26 @@
+english_sentences = [
+    "Hello", "How are you?", "I love you", "Thank you", "Good morning", "Good night", "See you soon", "Welcome", "What is your name?", "Where are you from?",
+    "I am fine", "Nice to meet you", "Have a nice day", "I am sorry", "Good afternoon", "Congratulations", "I don't understand", "Can you help me?", "I am learning Hindi", "Please speak slowly",
+    "I am hungry", "I am thirsty", "Where is the bathroom?", "How much is this?", "What time is it?", "I am tired", "Excuse me", "Bless you", "Good luck", "Happy birthday",
+    "Happy New Year", "Merry Christmas", "See you tomorrow", "Take care", "What happened?", "Don't worry", "Everything is fine", "Be careful", "I miss you", "Call me",
+    "Come here", "Go there", "Let's go", "Wait for me", "I agree", "I disagree", "I am happy", "I am sad", "It is raining", "It is sunny",
+    "I am cold", "I am hot", "I am bored", "I am excited", "I am busy", "I am free", "Can I help you?", "Can you come?", "Can you wait?", "Come with me",
+    "Leave me alone", "Follow me", "Stop it", "Don't do that", "Do you speak English?", "I don't know", "I think so", "I hope so", "Of course", "No problem",
+    "What do you mean?", "Can you repeat?", "I forgot", "I remember", "What do you want?", "I need help", "I don't like it", "I like it", "It is beautiful", "It is ugly",
+    "What is this?", "Where is it?", "When will you come?", "Who are you?", "Why are you late?", "Which one?", "How many?", "How far?", "Can I sit here?", "Can I join?",
+    "Is it ready?", "Are you sure?", "It's possible", "It's impossible", "It doesn't matter", "Never mind", "Thank you very much", "You're welcome", "Good job", "Well done"
+]
+
+hindi_sentences = [
+    "नमस्ते", "आप कैसे हैं?", "मैं तुमसे प्यार करता हूँ", "धन्यवाद", "सुप्रभात", "शुभ रात्रि", "फिर मिलेंगे", "स्वागत है", "आपका नाम क्या है?", "आप कहाँ से हैं?",
+    "मैं ठीक हूँ", "आपसे मिलकर अच्छा लगा", "आपका दिन शुभ हो", "मुझे खेद है", "शुभ अपराह्न", "बधाई हो", "मैं नहीं समझता", "क्या आप मेरी मदद कर सकते हैं?", "मैं हिंदी सीख रहा हूँ", "कृपया धीरे बोलिए",
+    "मुझे भूख लगी है", "मुझे प्यास लगी है", "शौचालय कहाँ है?", "यह कितने का है?", "समय क्या हुआ है?", "मैं थका हुआ हूँ", "माफ़ कीजिए", "भगवान भला करे", "शुभकामनाएँ", "जन्मदिन मुबारक हो",
+    "नया साल मुबारक हो", "क्रिसमस की शुभकामनाएँ", "कल मिलते हैं", "अपना ख्याल रखना", "क्या हुआ?", "चिंता मत करो", "सब कुछ ठीक है", "सावधान रहें", "मैं तुम्हें याद करता हूँ", "मुझे कॉल करें",
+    "यहाँ आओ", "वहाँ जाओ", "चलो चलते हैं", "मेरे लिए प्रतीक्षा करें", "मैं सहमत हूँ", "मैं असहमत हूँ", "मैं खुश हूँ", "मैं दुखी हूँ", "बारिश हो रही है", "धूप निकल रही है",
+    "मुझे ठंड लग रही है", "मुझे गर्मी लग रही है", "मैं बोर हो रहा हूँ", "मैं उत्साहित हूँ", "मैं व्यस्त हूँ", "मैं फ्री हूँ", "क्या मैं आपकी मदद कर सकता हूँ?", "क्या आप आ सकते हैं?", "क्या आप प्रतीक्षा कर सकते हैं?", "मेरे साथ आओ",
+    "मुझे अकेला छोड़ दो", "मेरा अनुसरण करें", "इसे बंद करो", "ऐसा मत करो", "क्या आप अंग्रेजी बोलते हैं?", "मुझे नहीं पता", "मुझे ऐसा लगता है", "मुझे उम्मीद है", "बिलकुल", "कोई समस्या नहीं",
+    "आपका क्या मतलब है?", "क्या आप दोहरा सकते हैं?", "मैं भूल गया", "मुझे याद है", "आप क्या चाहते हैं?", "मुझे मदद चाहिए", "मुझे यह पसंद नहीं है", "मुझे यह पसंद है", "यह सुंदर है", "यह बदसूरत है",
+    "यह क्या है?", "यह कहाँ है?", "आप कब आएंगे?", "आप कौन हैं?", "आप देर से क्यों आए?", "कौन सा?", "कितने?", "कितनी दूर?", "क्या मैं यहाँ बैठ सकता हूँ?", "क्या मैं शामिल हो सकता हूँ?",
+    "क्या यह तैयार है?", "क्या आप निश्चित हैं?", "यह संभव है", "यह असंभव है", "कोई फर्क नहीं पड़ता", "कोई बात नहीं", "बहुत बहुत धन्यवाद", "आपका स्वागत है", "शानदार काम", "बहुत अच्छा"
+]
 
